@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider and muxa", "Spider and muxa\Spider and muxa.csproj", "{49572D5E-54AF-4C83-BEEF-B8200D0D707F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49572D5E-54AF-4C83-BEEF-B8200D0D707F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49572D5E-54AF-4C83-BEEF-B8200D0D707F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49572D5E-54AF-4C83-BEEF-B8200D0D707F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49572D5E-54AF-4C83-BEEF-B8200D0D707F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF45DB6-C7F8-4A12-9814-7B51A569D9A7}
+	EndGlobalSection
+EndGlobal
